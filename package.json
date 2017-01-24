@@ -1,0 +1,22 @@
+{
+  "name": "taaccct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "ccby": "bin/index.js"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "chalk": "^1.1.3",
+    "inquirer": "^2.0.0",
+    "shelljs": "^0.7.6",
+    "tmp": "0.0.31",
+    "yargs": "^6.6.0"
+  }
+}
